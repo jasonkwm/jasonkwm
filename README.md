@@ -4,25 +4,13 @@
 </p>
 <hr>
 <br>
-<div style="display: flex; align-items: center ">
-<img src="https://github-readme-stats.vercel.app/api?username=jasonkwm&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jasonkwm&include_all_commits=true&count_private=true&show_icons=true&layout=compact&theme=tokyonight" alt="my Github Stats"/>
+<img align="right"src="https://github-readme-streak-stats.herokuapp.com/?user=jasonkwm&layout=compact&theme=tokyonight" alt="mystreak"/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonkwm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" /></p>
 
 <br>
 <hr>
 <br>
-
-### Some front-end projects that i've done : 
-
-<br>
-<div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/pin/?username=jasonkwm&repo=crowdfunding-product-page-main" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonkwm&repo=faq-accordion-card-main"/>
-  <img src ="https://github-readme-stats.vercel.app/api/pin/?username=jasonkwm&repo=order-summary-component-main" />
-  <img src ="https://github-readme-stats.vercel.app/api/pin/?username=jasonkwm&repo=3-column-preview-card-component-main" />
-</div>
 
 <!--
 **jasonkwm/jasonkwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
