@@ -4,7 +4,7 @@
 </p>
 <hr>
 <br>
-<div style="display: flex; flex-direction: column; align-items: center ">
+<div style="display: flex; align-items: center ">
 <img src="https://github-readme-stats.vercel.app/api?username=jasonkwm&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 </div>
