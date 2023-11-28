@@ -4,7 +4,7 @@
 </p>
 
 ## :ok_man: About Me
-- 🔭 I’m currently a `Cadet` at [42 Kuala Lumpur](https://42kl.edu.my/)
+- 🔭 I’m currently a `Cadet` at [42 Kuala Lumpur](https://42kl.edu.my/) & a freelance front-end web developer.
 - 🌱 Current languages used `C, Python, Javascript, Typescript, Solidity, GDscript`.
 - 🤔 Looking for jobs/projects to build my portfolio or anything to help me gain exposure in this industry.
 - 📫 How to reach me: <a href="https://www.instagram.com/jasonkwm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.facebook.com/jasonkwm" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
