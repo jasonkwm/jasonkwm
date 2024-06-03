@@ -4,9 +4,9 @@
 </p>
 
 ## :ok_man: About Me
-- 🔭 I’m currently a `Cadet` at [42 Kuala Lumpur](https://42kl.edu.my/) & a freelance front-end web developer.
-- 🌱 Current languages used `C, Python, Javascript, Typescript, Solidity, GDscript`.
-- 🤔 Looking for jobs/projects to build my portfolio or anything to help me gain exposure in this industry.
+- 🔭 I’m currently working as a Software Engineer & doing some freelance projects on the side.
+- 🌱 Current languages used `C, Python, Javascript, Typescript, Java/Groovy, Solidity, GDscript`.
+- 🤔 Looking fun and exciting projects that could help improve my skills in the Web3 or AI realm.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-jasonkwm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonkwm/)](https://www.linkedin.com/in/jasonkwm/) 
 [![Gmail Badge](https://img.shields.io/badge/-jasonkwm13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasonkwm13@gmail.com)](mailto:jasonkwm13@gmail.com)
