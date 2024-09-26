@@ -4,8 +4,8 @@
 </p>
 
 ## :ok_man: About Me
-- 🔭 I’m currently working as a Software Engineer & doing some freelance projects on the side.
-- 🌱 Current languages used `C, Python, Javascript, Typescript, Java/Groovy, Solidity, GDscript`.
+- 🔭 Currently working as a Software Engineer & doing some freelance projects on the side.
+- 🌱 Languages used `C, Python, Javascript, Typescript, Java/Groovy, Solidity, GDscript`.
 - 🤔 Looking fun and exciting projects that could help improve my skills in the Web3 or AI realm.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-jasonkwm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonkwm/)](https://www.linkedin.com/in/jasonkwm/) 
