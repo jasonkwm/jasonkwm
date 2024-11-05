@@ -5,10 +5,11 @@
 
 ## :ok_man: About Me
 - 🔭 Currently working as a Software Engineer & doing some freelance projects on the side.
-- 🌱 Languages used `C, Python, Javascript/Typescript, Java/Groovy, Solidity, GDscript`.
-- 🖼️ Web Frameworks & Libraries proficient in `NextJS/React, NestJS/Express, Tailwind, Prisma, PostgreSQL/MongoDB`.
-- 🐍 Python Ventures `Pandas/Numpy, Seaborn/Matplotlib, OpenAI APIs, Langchain, Tensorflow`.
-- 📟 Web3 Explorations `Solidity/Hardhat, Web3Auth, XMTP, Aleo, Web3JS/EthersJS/Viem, Thirdweb`.
+- 🌱 Languages used `C, Python, Javascript/Typescript, Java/Groovy, Solidity, GDscript, Shell`.
+- 🖼️ Web Frameworks & Libraries `NextJs/React, NestJs/Express, Tailwind, Prisma, PostgreSQL/MongoDB, D3Js`.
+- 🐍 Python exploration `Pandas/Numpy, Seaborn/Matplotlib, OpenAI APIs, Langchain, Tensorflow`.
+- 📟 Web3 adventures `Solidity/Hardhat, Web3Js/EthersJs, Viem, Thirdweb, Web3Auth, XMTP, Aleo`.
+- 👨‍💻 Current work `Springboot, Gradle, Jenkins, Docker, Kubernetes, AWS`.
 - 🤔 Looking fun and exciting projects that could help improve my skills in the Web3 or AI realm.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-jasonkwm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonkwm/)](https://www.linkedin.com/in/jasonkwm/) 
