@@ -9,7 +9,7 @@
 - 🖼️ Web Frameworks & Libraries `NextJs/React, NestJs/Express, Tailwind, MaterialUi/ChakraUi, Prisma, PostgreSQL/MongoDB, D3Js, Discord`.
 - 🐍 Python exploration `Pandas/Numpy, Seaborn/Matplotlib, OpenAI APIs, Langchain, Tensorflow`.
 - 📟 Web3 adventures `Solidity/Hardhat, Web3Js/EthersJs, Viem, Thirdweb, Web3Auth, XMTP, Aleo`.
-- 👨‍💻 Current work `Springboot, Gradle, Jenkins, Docker, Kubernetes, AWS`.
+- 👨‍💻 Current work `Springboot, Gradle, Jenkins, Docker/Kubernetes, AWS`.
 - 🤔 Looking fun and exciting projects that could help improve my skills in the Web3 or AI realm.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-jasonkwm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonkwm/)](https://www.linkedin.com/in/jasonkwm/) 
