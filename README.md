@@ -8,7 +8,7 @@
 - 🌱 Languages used `C, Python, Javascript/Typescript, Java/Groovy, Solidity, GDscript, Shell`.
 - 🖼️ Web Frameworks & Libraries `NextJs/React, NestJs/Express, Tailwind, MaterialUi/ChakraUi, Prisma, PostgreSQL/MongoDB, D3Js, Discord`.
 - 🐍 Python exploration `Pandas/Numpy, Seaborn/Matplotlib, OpenAI APIs, Langchain, Tensorflow`.
-- 📟 Web3 adventures `Solidity/Hardhat, Web3Js/EthersJs, Viem, Thirdweb, Web3Auth, XMTP, Aleo`.
+- 📟 Web3 adventures `Solidity/Hardhat, Web3Js/EthersJs, Viem, Thirdweb, Web3Auth/Biconomy, XMTP, Aleo`.
 - 👨‍💻 Current work `Springboot, Gradle, Jenkins, Docker/Kubernetes, AWS`.
 - 🤔 Looking fun and exciting projects that could help improve my skills in the Web3 or AI realm.
 - 📫 How to reach me: 
